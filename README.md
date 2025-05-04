@@ -1,0 +1,1 @@
+Arı Bilgi Pendik Şubesi Python Kursu Şubat Grubu Django Projesi
